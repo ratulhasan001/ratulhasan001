@@ -18,7 +18,7 @@ Computer Science graduate from BAUET with research experience in **Artificial In
 
 ### Right now
 
-- Research Assistant at [ELITE Research Lab](https://elitelab.ai/), working on prompt-injection security in LLM-based smart-home agents
+- Research Assistant at [ELITE Research Lab](https://elitelab.ai/), studying attacker-controllable IoT device metadata as a prompt-injection surface for LLM smart-home agents (Home Assistant)
 - Learning DevOps by taking a Django project through containers, CI/CD and Kubernetes
 - Open to research collaboration and graduate study
 
